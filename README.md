@@ -1,6 +1,6 @@
 # Classification-Models
 
-In these projects, I used various classification models on a dataset to predict the salary of different company positions, testing which model fit the data the best!
+In these projects, I used various classification models on a dataset to predict the purchase of a product based on age and salary, testing which model fit the data the best!
 
 Through this project, I learned how to develop various classification models!
 
